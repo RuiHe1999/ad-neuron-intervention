@@ -898,11 +898,11 @@ specificity.to_csv(
 plt.rcParams.update({
     "font.family": "sans-serif",
     "font.sans-serif": ["Arial", "Helvetica", "DejaVu Sans"],
-    "font.size": 8.2,
+    "font.size": 9.2,
     "axes.titlesize": 8.8,
     "axes.labelsize": 8.2,
-    "xtick.labelsize": 6.2,
-    "ytick.labelsize": 7.0,
+    "xtick.labelsize": 7.2,
+    "ytick.labelsize": 7.2,
     "legend.fontsize": 7.2,
     "svg.fonttype": "none",
     "pdf.fonttype": 42,
@@ -951,13 +951,13 @@ PANEL_LAYOUT = [
 ]
 
 TASK_GROUPS = [
-    ("Immediate Recall", [(0, 0), (0, 1)]),
-    ("Delayed Recall", [(0, 2), (0, 3)]),
-    ("Verbal fluency", [(1, 0), (1, 1)]),
-    ("Coreference", [(1, 2)]),
-    ("Procedure", [(1, 3)]),
-    ("Working memory", [(2, 0), (2, 1), (2, 2), (2, 3)]),
-    ("Scene construction", [(3, 0), (3, 1)]),
+    ("Immediate Recall\n", [(0, 0), (0, 1)]),
+    ("Delayed Recall\n", [(0, 2), (0, 3)]),
+    ("Verbal fluency\n", [(1, 0), (1, 1)]),
+    ("Coreference\n", [(1, 2)]),
+    ("Procedure\n", [(1, 3)]),
+    ("Working memory\n", [(2, 0), (2, 1), (2, 2), (2, 3)]),
+    ("Scene construction\n", [(3, 0), (3, 1)]),
 ]
 
 
@@ -1072,7 +1072,7 @@ def add_task_header(fig, axes_list, title):
     top = max(position.y1 for position in positions)
 
     header_y = top + 0.004
-    header_height = 0.014
+    header_height = 0.024
 
     header = Rectangle((left, header_y), right - left, header_height, transform=fig.transFigure, facecolor="#E9EEF1", edgecolor="none", clip_on=False, zorder=0)
     fig.add_artist(header)

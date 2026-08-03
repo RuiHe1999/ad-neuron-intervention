@@ -1,0 +1,251 @@
+﻿ID,Condition,Role,alpha_signed,neurons,coref_score
+b68377eaceb6dd0e,-0.6Alpha_10000Neurons,accountant,-0.6α,10000,3.5
+b45c50cd638f3f88,-0.6Alpha_10000Neurons,airport ground staff,-0.6α,10000,3.5
+a7748adde1db7e07,-0.6Alpha_10000Neurons,architect,-0.6α,10000,3.5
+4a61492dd69bf489,-0.6Alpha_10000Neurons,bank clerk,-0.6α,10000,3.5
+206a1264a38e8fb8,-0.6Alpha_10000Neurons,builder,-0.6α,10000,3.5
+a8426571676d8535,-0.6Alpha_10000Neurons,civil servant,-0.6α,10000,3.5
+3ac22ffe1f4df9a2,-0.6Alpha_10000Neurons,cleaner,-0.6α,10000,3.5
+aacec48a3ba6aefe,-0.6Alpha_10000Neurons,doctor,-0.6α,10000,3.5
+8fb1aa6e509c08f9,-0.6Alpha_10000Neurons,emergency dispatcher,-0.6α,10000,1.0
+fbe8651cdffbb86d,-0.6Alpha_10000Neurons,engineer,-0.6α,10000,3.5
+b6e897ee8cf608de,-0.6Alpha_10000Neurons,farmer,-0.6α,10000,3.5
+f38343524138e4d3,-0.6Alpha_10000Neurons,firefighter,-0.6α,10000,3.5
+195fbbe46d95ca46,-0.6Alpha_10000Neurons,insurance agent,-0.6α,10000,3.5
+cbe030967d3611a9,-0.6Alpha_10000Neurons,librarian,-0.6α,10000,3.5
+a0deca3df713b500,-0.6Alpha_10000Neurons,miner,-0.6α,10000,3.5
+88931135d35b172b,-0.6Alpha_10000Neurons,nurse,-0.6α,10000,3.5
+e1fa67adc5ec7811,-0.6Alpha_10000Neurons,police officer,-0.6α,10000,3.5
+090efd7069fe4985,-0.6Alpha_10000Neurons,prison officer,-0.6α,10000,3.5
+9a9ad1382b5ebaee,-0.6Alpha_10000Neurons,salesperson,-0.6α,10000,3.5
+ac01e50aa00f838b,-0.6Alpha_10000Neurons,scientist,-0.6α,10000,3.5
+3019b1fe98a6ebda,-0.6Alpha_10000Neurons,security guard,-0.6α,10000,3.5
+0789d8cec7990c9a,-0.6Alpha_10000Neurons,soldier,-0.6α,10000,3.5
+7680a3e16d9bcc61,-0.6Alpha_10000Neurons,teacher,-0.6α,10000,3.5
+de8166a2cd6683a0,-0.6Alpha_10000Neurons,truck driver,-0.6α,10000,3.5
+35ba37a804c12271,-0.6Alpha_10000Neurons,welder,-0.6α,10000,3.5
+f3a42df4e0d2b630,-0.6Alpha_2000Neurons,accountant,-0.6α,2000,3.5
+8582e932a77dec79,-0.6Alpha_2000Neurons,airport ground staff,-0.6α,2000,3.5
+b0f9b61b58cb15f8,-0.6Alpha_2000Neurons,architect,-0.6α,2000,1.0
+5742684ce989c5fc,-0.6Alpha_2000Neurons,bank clerk,-0.6α,2000,3.5
+46dfb194bd69c579,-0.6Alpha_2000Neurons,builder,-0.6α,2000,3.5
+6211320a780be800,-0.6Alpha_2000Neurons,civil servant,-0.6α,2000,3.5
+c9bdbb0778bf3f79,-0.6Alpha_2000Neurons,cleaner,-0.6α,2000,3.5
+14bdbf8dd374813c,-0.6Alpha_2000Neurons,doctor,-0.6α,2000,3.5
+74e502424e3640ef,-0.6Alpha_2000Neurons,emergency dispatcher,-0.6α,2000,3.5
+298f4b165998bdff,-0.6Alpha_2000Neurons,engineer,-0.6α,2000,3.5
+e3b29d009d743d78,-0.6Alpha_2000Neurons,farmer,-0.6α,2000,3.5
+d6d0f0bbeeef090a,-0.6Alpha_2000Neurons,firefighter,-0.6α,2000,3.5
+55ecd445df6d85fe,-0.6Alpha_2000Neurons,insurance agent,-0.6α,2000,3.5
+1df8afb375db6660,-0.6Alpha_2000Neurons,librarian,-0.6α,2000,3.5
+a4f1f1b06844e2c4,-0.6Alpha_2000Neurons,miner,-0.6α,2000,3.5
+00810b15446476f2,-0.6Alpha_2000Neurons,nurse,-0.6α,2000,3.5
+0c40571ff093f733,-0.6Alpha_2000Neurons,police officer,-0.6α,2000,3.5
+004983f2ebf3d342,-0.6Alpha_2000Neurons,prison officer,-0.6α,2000,3.5
+08ab51c4bcf6d716,-0.6Alpha_2000Neurons,salesperson,-0.6α,2000,3.5
+fbcc214774f05979,-0.6Alpha_2000Neurons,scientist,-0.6α,2000,3.5
+fe0daf76a6c0a82a,-0.6Alpha_2000Neurons,security guard,-0.6α,2000,3.5
+7c81aadd82c606c1,-0.6Alpha_2000Neurons,soldier,-0.6α,2000,3.5
+60ff6fbaa1c380a5,-0.6Alpha_2000Neurons,teacher,-0.6α,2000,3.5
+88affc35a4046761,-0.6Alpha_2000Neurons,truck driver,-0.6α,2000,3.5
+d4ca3e13bac51d26,-0.6Alpha_2000Neurons,welder,-0.6α,2000,3.5
+9edc6bad4bcf8e05,-0.6Alpha_AllSigNeurons,accountant,-0.6α,AllSig,3.5
+f55275897ac0066c,-0.6Alpha_AllSigNeurons,airport ground staff,-0.6α,AllSig,3.5
+68d5de4fa4137a37,-0.6Alpha_AllSigNeurons,architect,-0.6α,AllSig,3.5
+1a7a5b41e8d02365,-0.6Alpha_AllSigNeurons,bank clerk,-0.6α,AllSig,3.5
+c33c14ca66f10317,-0.6Alpha_AllSigNeurons,builder,-0.6α,AllSig,3.5
+bfd6970592669574,-0.6Alpha_AllSigNeurons,civil servant,-0.6α,AllSig,3.5
+971a9d160a56ebdd,-0.6Alpha_AllSigNeurons,cleaner,-0.6α,AllSig,3.5
+f5282d9bf7c7a789,-0.6Alpha_AllSigNeurons,doctor,-0.6α,AllSig,3.5
+7137fa6c40025199,-0.6Alpha_AllSigNeurons,emergency dispatcher,-0.6α,AllSig,3.5
+3f5cee714124527e,-0.6Alpha_AllSigNeurons,engineer,-0.6α,AllSig,3.5
+5a5493eb792b3be6,-0.6Alpha_AllSigNeurons,farmer,-0.6α,AllSig,3.5
+c72e46ecc063aee7,-0.6Alpha_AllSigNeurons,firefighter,-0.6α,AllSig,3.5
+20a0eb5bfebfb66e,-0.6Alpha_AllSigNeurons,insurance agent,-0.6α,AllSig,3.5
+08655487b5c3f2b9,-0.6Alpha_AllSigNeurons,librarian,-0.6α,AllSig,3.5
+e8c7779dd0d6b1a0,-0.6Alpha_AllSigNeurons,miner,-0.6α,AllSig,3.5
+9f7ae44b4b31fd65,-0.6Alpha_AllSigNeurons,nurse,-0.6α,AllSig,3.5
+9a8a77a8e6221492,-0.6Alpha_AllSigNeurons,police officer,-0.6α,AllSig,3.5
+fd0b7df51029544c,-0.6Alpha_AllSigNeurons,prison officer,-0.6α,AllSig,3.5
+8eac65fb3663bc94,-0.6Alpha_AllSigNeurons,salesperson,-0.6α,AllSig,3.5
+a485f9521d6a9fcc,-0.6Alpha_AllSigNeurons,scientist,-0.6α,AllSig,3.5
+845cc6bd73cc1785,-0.6Alpha_AllSigNeurons,security guard,-0.6α,AllSig,3.5
+e1878e6390ccd241,-0.6Alpha_AllSigNeurons,soldier,-0.6α,AllSig,3.5
+c42ffb52722449f8,-0.6Alpha_AllSigNeurons,teacher,-0.6α,AllSig,3.5
+c99637b7b940af06,-0.6Alpha_AllSigNeurons,truck driver,-0.6α,AllSig,3.5
+0a6290a3f09a3845,-0.6Alpha_AllSigNeurons,welder,-0.6α,AllSig,3.5
+23e183a8a3b764ee,0.2Alpha_10000Neurons,accountant,0.2α,10000,3.5
+860119a954365359,0.2Alpha_10000Neurons,airport ground staff,0.2α,10000,3.5
+4b3202b712286e4a,0.2Alpha_10000Neurons,architect,0.2α,10000,4.0
+2cfe066e7f0a42bf,0.2Alpha_10000Neurons,bank clerk,0.2α,10000,4.0
+5784abc2212311e6,0.2Alpha_10000Neurons,builder,0.2α,10000,3.5
+0d3a8f039b3d7773,0.2Alpha_10000Neurons,civil servant,0.2α,10000,3.5
+896e45dc31afce47,0.2Alpha_10000Neurons,cleaner,0.2α,10000,3.5
+7be539a818787310,0.2Alpha_10000Neurons,doctor,0.2α,10000,3.5
+2e2bca8caef1f0cd,0.2Alpha_10000Neurons,emergency dispatcher,0.2α,10000,3.5
+bfca85dcb6c28b06,0.2Alpha_10000Neurons,engineer,0.2α,10000,1.0
+0c148d6c7cde351f,0.2Alpha_10000Neurons,farmer,0.2α,10000,3.5
+16d73b0e69e7c8f8,0.2Alpha_10000Neurons,firefighter,0.2α,10000,3.5
+7e3e708779cce5f0,0.2Alpha_10000Neurons,insurance agent,0.2α,10000,1.0
+77b66a13657d4138,0.2Alpha_10000Neurons,librarian,0.2α,10000,3.5
+0756f8f887591188,0.2Alpha_10000Neurons,miner,0.2α,10000,3.5
+dd29f0af30c2b17c,0.2Alpha_10000Neurons,nurse,0.2α,10000,3.5
+2c3ae213716f612a,0.2Alpha_10000Neurons,police officer,0.2α,10000,3.5
+50efcf9bc52b713c,0.2Alpha_10000Neurons,prison officer,0.2α,10000,3.5
+2161942e52a23578,0.2Alpha_10000Neurons,salesperson,0.2α,10000,3.5
+1f39e9e369bf45dd,0.2Alpha_10000Neurons,scientist,0.2α,10000,4.0
+962a612238eccf99,0.2Alpha_10000Neurons,security guard,0.2α,10000,3.5
+9efd1afa572715be,0.2Alpha_10000Neurons,soldier,0.2α,10000,3.5
+0cd8c1bc060716fe,0.2Alpha_10000Neurons,teacher,0.2α,10000,3.5
+9b706a401405cc89,0.2Alpha_10000Neurons,truck driver,0.2α,10000,3.5
+008a0295237bc03c,0.2Alpha_10000Neurons,welder,0.2α,10000,4.0
+cbd00532eb87dba7,0.2Alpha_2000Neurons,accountant,0.2α,2000,3.5
+ffcb2076b2a0402d,0.2Alpha_2000Neurons,airport ground staff,0.2α,2000,3.5
+ae6a211d4f7a3e0a,0.2Alpha_2000Neurons,architect,0.2α,2000,3.5
+cee5fb5d412bb213,0.2Alpha_2000Neurons,bank clerk,0.2α,2000,3.5
+5f6d782b10aeeffe,0.2Alpha_2000Neurons,builder,0.2α,2000,3.5
+6c11c546ebbe389b,0.2Alpha_2000Neurons,civil servant,0.2α,2000,3.5
+12f77e67b04c3d67,0.2Alpha_2000Neurons,cleaner,0.2α,2000,1.0
+e5807248bb187728,0.2Alpha_2000Neurons,doctor,0.2α,2000,3.5
+fecca9fe280b3d0e,0.2Alpha_2000Neurons,emergency dispatcher,0.2α,2000,3.5
+66af74e04cd420e3,0.2Alpha_2000Neurons,engineer,0.2α,2000,3.5
+da01fcab124f6d4c,0.2Alpha_2000Neurons,farmer,0.2α,2000,3.5
+33517136da0a38ec,0.2Alpha_2000Neurons,firefighter,0.2α,2000,3.5
+6b61cff8ae1c1623,0.2Alpha_2000Neurons,insurance agent,0.2α,2000,3.5
+49f1bc3262db7cb2,0.2Alpha_2000Neurons,librarian,0.2α,2000,3.5
+0bb21389412211c9,0.2Alpha_2000Neurons,miner,0.2α,2000,3.5
+c0ec6cf07923d1a4,0.2Alpha_2000Neurons,nurse,0.2α,2000,3.5
+a441bf6e4aac2320,0.2Alpha_2000Neurons,police officer,0.2α,2000,3.5
+3c3c590f82700da4,0.2Alpha_2000Neurons,prison officer,0.2α,2000,3.5
+a533a03c3bd4f1d8,0.2Alpha_2000Neurons,salesperson,0.2α,2000,3.5
+79bbc29022d940f6,0.2Alpha_2000Neurons,scientist,0.2α,2000,3.5
+81d20cfba9a33e39,0.2Alpha_2000Neurons,security guard,0.2α,2000,3.5
+63681a7355cbc27c,0.2Alpha_2000Neurons,soldier,0.2α,2000,3.5
+7264fcf8b370e3a7,0.2Alpha_2000Neurons,teacher,0.2α,2000,1.0
+dbf9fa58106587a7,0.2Alpha_2000Neurons,truck driver,0.2α,2000,3.5
+19b1d7d0d27ea129,0.2Alpha_2000Neurons,welder,0.2α,2000,3.5
+7163f2b084889926,0.2Alpha_AllSigNeurons,accountant,0.2α,AllSig,1.0
+4b06165225acd9bb,0.2Alpha_AllSigNeurons,airport ground staff,0.2α,AllSig,1.0
+ec363af8842ac3ec,0.2Alpha_AllSigNeurons,architect,0.2α,AllSig,1.0
+3ab90a4a5b3b459b,0.2Alpha_AllSigNeurons,bank clerk,0.2α,AllSig,1.0
+ee41baa46ab7f5be,0.2Alpha_AllSigNeurons,builder,0.2α,AllSig,1.0
+98596ace45ba1644,0.2Alpha_AllSigNeurons,civil servant,0.2α,AllSig,1.0
+df328a5e5c041cc5,0.2Alpha_AllSigNeurons,cleaner,0.2α,AllSig,1.0
+187baf5ccb217050,0.2Alpha_AllSigNeurons,doctor,0.2α,AllSig,3.5
+635315c809b0f27a,0.2Alpha_AllSigNeurons,emergency dispatcher,0.2α,AllSig,1.0
+bd2be24455cc817c,0.2Alpha_AllSigNeurons,engineer,0.2α,AllSig,4.0
+24f4e3beea47029f,0.2Alpha_AllSigNeurons,farmer,0.2α,AllSig,3.5
+33ed672f9d40ec98,0.2Alpha_AllSigNeurons,firefighter,0.2α,AllSig,3.5
+fdcfe3b16152f1a1,0.2Alpha_AllSigNeurons,insurance agent,0.2α,AllSig,1.0
+d74734acf9f88e1f,0.2Alpha_AllSigNeurons,librarian,0.2α,AllSig,1.0
+ba35286c22ef0e7e,0.2Alpha_AllSigNeurons,miner,0.2α,AllSig,3.5
+73151ea643d99032,0.2Alpha_AllSigNeurons,nurse,0.2α,AllSig,3.5
+03a66d2d2ccee309,0.2Alpha_AllSigNeurons,police officer,0.2α,AllSig,3.5
+5ed2b42d02952cd7,0.2Alpha_AllSigNeurons,prison officer,0.2α,AllSig,1.0
+dbdd1a4867ca9932,0.2Alpha_AllSigNeurons,salesperson,0.2α,AllSig,1.0
+c69f8c83fd7f4cc6,0.2Alpha_AllSigNeurons,scientist,0.2α,AllSig,1.0
+af43910df5ffab34,0.2Alpha_AllSigNeurons,security guard,0.2α,AllSig,1.0
+d114cad7bfe72b23,0.2Alpha_AllSigNeurons,soldier,0.2α,AllSig,3.5
+844ecbf955462354,0.2Alpha_AllSigNeurons,teacher,0.2α,AllSig,1.0
+8de760d3fc4e4ee2,0.2Alpha_AllSigNeurons,truck driver,0.2α,AllSig,1.0
+1a50c0d46366469c,0.2Alpha_AllSigNeurons,welder,0.2α,AllSig,3.5
+252b57ebaed7b109,0.6Alpha_10000Neurons,accountant,0.6α,10000,1.0
+abca566961b17630,0.6Alpha_10000Neurons,airport ground staff,0.6α,10000,1.0
+4d7499739ad68267,0.6Alpha_10000Neurons,architect,0.6α,10000,1.0
+db09fbd1984461ef,0.6Alpha_10000Neurons,bank clerk,0.6α,10000,1.0
+86909dcc208525cf,0.6Alpha_10000Neurons,builder,0.6α,10000,1.0
+3e150e344fe66ce3,0.6Alpha_10000Neurons,civil servant,0.6α,10000,1.0
+b41710571d28bc74,0.6Alpha_10000Neurons,cleaner,0.6α,10000,1.0
+f36ac02295a3a66a,0.6Alpha_10000Neurons,doctor,0.6α,10000,1.0
+c54d421f70ba5ca5,0.6Alpha_10000Neurons,emergency dispatcher,0.6α,10000,1.0
+f2725243a6af06bc,0.6Alpha_10000Neurons,engineer,0.6α,10000,1.0
+1546ae3424c8d381,0.6Alpha_10000Neurons,farmer,0.6α,10000,1.0
+0ecbe41a18307025,0.6Alpha_10000Neurons,firefighter,0.6α,10000,1.0
+b526db8602d047e0,0.6Alpha_10000Neurons,insurance agent,0.6α,10000,1.0
+fe8b444021990a84,0.6Alpha_10000Neurons,librarian,0.6α,10000,1.0
+0835eb078a2fa15e,0.6Alpha_10000Neurons,miner,0.6α,10000,1.0
+4895af4c0bf521f3,0.6Alpha_10000Neurons,nurse,0.6α,10000,1.0
+2cf1ee89fb0f8648,0.6Alpha_10000Neurons,police officer,0.6α,10000,1.0
+9b0e7c4a3bc187b0,0.6Alpha_10000Neurons,prison officer,0.6α,10000,1.0
+06d3243ea49f003d,0.6Alpha_10000Neurons,salesperson,0.6α,10000,1.0
+6874bddcd286e933,0.6Alpha_10000Neurons,scientist,0.6α,10000,1.0
+e923a74326b19c11,0.6Alpha_10000Neurons,security guard,0.6α,10000,1.0
+defd4cd3b12a58df,0.6Alpha_10000Neurons,soldier,0.6α,10000,1.0
+7ce41d53535f173f,0.6Alpha_10000Neurons,teacher,0.6α,10000,1.0
+8294dbafc136dedf,0.6Alpha_10000Neurons,truck driver,0.6α,10000,1.0
+90d80625018427ae,0.6Alpha_10000Neurons,welder,0.6α,10000,1.0
+da685f226197909a,0.6Alpha_2000Neurons,accountant,0.6α,2000,3.5
+20cc49e6f2d73b19,0.6Alpha_2000Neurons,airport ground staff,0.6α,2000,1.0
+56063fb764c75ae0,0.6Alpha_2000Neurons,architect,0.6α,2000,1.0
+822e7bc22251b9a2,0.6Alpha_2000Neurons,bank clerk,0.6α,2000,1.0
+f7b75d241b4a0253,0.6Alpha_2000Neurons,builder,0.6α,2000,1.0
+73a1a166f868eeec,0.6Alpha_2000Neurons,civil servant,0.6α,2000,1.0
+6ab6bdc80101c38e,0.6Alpha_2000Neurons,cleaner,0.6α,2000,1.0
+34f8ee44074f85af,0.6Alpha_2000Neurons,doctor,0.6α,2000,1.0
+68e36f1138ec058c,0.6Alpha_2000Neurons,emergency dispatcher,0.6α,2000,1.0
+6d5136127f367973,0.6Alpha_2000Neurons,engineer,0.6α,2000,1.0
+62ede2259219000f,0.6Alpha_2000Neurons,farmer,0.6α,2000,1.0
+4c1989454ed28c01,0.6Alpha_2000Neurons,firefighter,0.6α,2000,1.0
+a4dd9cb08d2bb183,0.6Alpha_2000Neurons,insurance agent,0.6α,2000,1.0
+238d407b63554ec7,0.6Alpha_2000Neurons,librarian,0.6α,2000,1.0
+a39f725d34e2d0b5,0.6Alpha_2000Neurons,miner,0.6α,2000,1.0
+ca843b09d9b9dae5,0.6Alpha_2000Neurons,nurse,0.6α,2000,1.0
+131c2dd1844bdfe7,0.6Alpha_2000Neurons,police officer,0.6α,2000,1.0
+cf366409126fb0fb,0.6Alpha_2000Neurons,prison officer,0.6α,2000,1.0
+f77e6444b60f2cba,0.6Alpha_2000Neurons,salesperson,0.6α,2000,1.0
+fa09d281263b793d,0.6Alpha_2000Neurons,scientist,0.6α,2000,1.0
+d75cab9b6b5bbfc1,0.6Alpha_2000Neurons,security guard,0.6α,2000,1.0
+22e2a194062351da,0.6Alpha_2000Neurons,soldier,0.6α,2000,1.0
+80f360bb80e9024e,0.6Alpha_2000Neurons,teacher,0.6α,2000,1.0
+f8ececc0ad90e2d3,0.6Alpha_2000Neurons,truck driver,0.6α,2000,1.0
+a6b9f2cf0185314d,0.6Alpha_2000Neurons,welder,0.6α,2000,1.0
+19ada4f0cc34597c,0.6Alpha_AllSigNeurons,accountant,0.6α,AllSig,0.0
+475796b2015340ad,0.6Alpha_AllSigNeurons,airport ground staff,0.6α,AllSig,0.0
+ddd7278c88b2ae74,0.6Alpha_AllSigNeurons,architect,0.6α,AllSig,0.0
+5c3ed3c2976d643a,0.6Alpha_AllSigNeurons,bank clerk,0.6α,AllSig,-8.0
+8b63b3987b5c1b34,0.6Alpha_AllSigNeurons,builder,0.6α,AllSig,0.0
+399db244224ad774,0.6Alpha_AllSigNeurons,civil servant,0.6α,AllSig,-3.0
+b997855405d06ece,0.6Alpha_AllSigNeurons,cleaner,0.6α,AllSig,0.0
+42b4e850b95810a9,0.6Alpha_AllSigNeurons,doctor,0.6α,AllSig,-8.0
+9b735ed5e180d261,0.6Alpha_AllSigNeurons,emergency dispatcher,0.6α,AllSig,0.0
+05c996e40516008a,0.6Alpha_AllSigNeurons,engineer,0.6α,AllSig,0.0
+335667d82e735b5f,0.6Alpha_AllSigNeurons,farmer,0.6α,AllSig,-8.0
+2ff74865b3f450d2,0.6Alpha_AllSigNeurons,firefighter,0.6α,AllSig,0.0
+a93952b43ce46e04,0.6Alpha_AllSigNeurons,insurance agent,0.6α,AllSig,0.0
+ebeef2a7f5ab24d2,0.6Alpha_AllSigNeurons,librarian,0.6α,AllSig,-8.0
+f5fbf51ce59afd29,0.6Alpha_AllSigNeurons,miner,0.6α,AllSig,0.0
+e24f529222c8b8d8,0.6Alpha_AllSigNeurons,nurse,0.6α,AllSig,-8.0
+328f4aaa16d167dc,0.6Alpha_AllSigNeurons,police officer,0.6α,AllSig,0.0
+28b5456f71d78296,0.6Alpha_AllSigNeurons,prison officer,0.6α,AllSig,-8.0
+17d7513503f1fdc9,0.6Alpha_AllSigNeurons,salesperson,0.6α,AllSig,-3.0
+a87621f3192a8d39,0.6Alpha_AllSigNeurons,scientist,0.6α,AllSig,0.0
+f7b9290883c8c406,0.6Alpha_AllSigNeurons,security guard,0.6α,AllSig,-8.0
+96cb95c46c571493,0.6Alpha_AllSigNeurons,soldier,0.6α,AllSig,0.0
+d8f646f101f9d23f,0.6Alpha_AllSigNeurons,teacher,0.6α,AllSig,0.0
+f1b9349ea5c11e45,0.6Alpha_AllSigNeurons,truck driver,0.6α,AllSig,0.0
+c490a8dfed3d06e7,0.6Alpha_AllSigNeurons,welder,0.6α,AllSig,0.0
+b122d6cfce96ca30,Original,accountant,0.0α,0,3.5
+0bce4efa07bb3d6d,Original,airport ground staff,0.0α,0,3.5
+ff0835b4dbb08b2b,Original,architect,0.0α,0,3.5
+18e02765742df2b6,Original,bank clerk,0.0α,0,3.5
+4541e597a75d5be2,Original,builder,0.0α,0,3.5
+0689d6220cba35ae,Original,civil servant,0.0α,0,3.5
+ef39cccf154cf594,Original,cleaner,0.0α,0,3.5
+0cf495bb246f4da9,Original,doctor,0.0α,0,3.5
+28f9eab79419bec8,Original,emergency dispatcher,0.0α,0,3.5
+879a5817d65ae73f,Original,engineer,0.0α,0,3.5
+c209640e2c50ae2c,Original,farmer,0.0α,0,3.5
+c6f73bbad0ed2fa7,Original,firefighter,0.0α,0,3.5
+6fb8227dc3aeab42,Original,insurance agent,0.0α,0,3.5
+359ceaef7e9bdf9c,Original,librarian,0.0α,0,3.5
+1e010e5ff1803d4d,Original,miner,0.0α,0,3.5
+4f15f27d2c081d06,Original,nurse,0.0α,0,1.0
+989b83536c021730,Original,police officer,0.0α,0,3.5
+ee55122eab899c35,Original,prison officer,0.0α,0,3.5
+12c2c10c54973dd4,Original,salesperson,0.0α,0,3.5
+4bfcb26058d4361f,Original,scientist,0.0α,0,3.5
+b4ebe510f9dd9f51,Original,security guard,0.0α,0,3.5
+c3dcffa1b8f4a99e,Original,soldier,0.0α,0,3.5
+e5c70509118ce67e,Original,teacher,0.0α,0,3.5
+020e5bdefc35a891,Original,truck driver,0.0α,0,3.5
+485823b171795194,Original,welder,0.0α,0,1.0

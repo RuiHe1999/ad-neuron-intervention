@@ -1,0 +1,2 @@
+﻿Var,N,MAE,Type,Description,ICC,F,df1,df2,pval,CI95%
+coref_score,250,0.588,ICC2k,Average random raters,0.97073939329987,81.2013077075474,249,249,2.0195132682742698e-166,[0.66 0.99]

@@ -1,0 +1,3 @@
+﻿Var,N,MAE,Type,Description,ICC,F,df1,df2,pval,CI95%
+step_score,250,0.0,ICC2k,Average random raters,1.0,inf,249,249,0.0,[nan nan]
+order_error,250,0.0,ICC2k,Average random raters,1.0,inf,249,249,0.0,[nan nan]
